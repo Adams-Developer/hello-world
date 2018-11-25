@@ -1,11 +1,11 @@
 # hello-world
 
-Welcome!
+Hi!
 
-Currently I'm a graduate student at DePaul University in Chicago, IL.
-I like C#, HTML, TypeScript/JavaScript amd Agular.
-I am interested in Artifical Intelligence and Blockchain.
+I am a recent MS graduate of DePaul University in Chicago, IL.
+I use C#, HTML, JavaScript/typescript and Angular daily.
+I am interested in data, AI and Blockchain.
 
-I hope to display what I have learned during my tenure at DePaul.
+I hope to display what I have learned during my tenure at DePaul and in my spare time.
 
 Enjoy!
